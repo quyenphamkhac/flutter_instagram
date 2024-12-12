@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../../../../core/router/router.dart';
+import 'package:flutter_instagram/src/core/router/router.dart';
 
 class LoginPage extends StatelessWidget {
   const LoginPage({super.key});

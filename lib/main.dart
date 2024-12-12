@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import './src/core/router/router.dart';
+import 'package:flutter_instagram/src/core/router/router.dart';
 
 void main() {
   runApp(const MainApp());
